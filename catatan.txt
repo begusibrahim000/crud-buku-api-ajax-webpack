@@ -1,0 +1,11 @@
+====================================== BEGUS IBRAHIM | A FULLSTACK DEVELOPER | 13 - 04 - 2020 / Malam Selasa =============================================
+# Project aplikasi crud buku menggunakan javascript ES6 dan konsep Web Service / APIs menggunakan Ajax ( object XMLHttpRequest )
+# Cara menjalankan aplikasi :
+	1. Download project
+	2. Extract project diamana saja,saran di "xampp/htdocs"
+	3. Buka terminal dan arahkan ke folder project
+	4. Karna project ini sudah berserta package yang dibutuhkan di "node_modules/" maka langsung lanjut ke point 6 dan point 5 skip (point 5 dijalankan bila package yang dibutuhkan di node_modules belum ada)
+	5. ketikan perintah " npm install " -> untuk menginstall package yang dibutuhkan di devDependencies dan Dependencies yang telah di configurasi
+		* Bila terdapat error : npm ERR! Unexpected end of JSON input while parsing near '...esprima":"~1.0.4","mo'
+		* ketikan perintah " npm cache clean --force " -> untuk membersihkan sampah yang tidak diperlukan dan menghalangi proses install package
+	6. ketikan perintah " npm run start-dev " -> untuk menjalankan aplikasi CRUD
