@@ -9,3 +9,6 @@
 		* Bila terdapat error : npm ERR! Unexpected end of JSON input while parsing near '...esprima":"~1.0.4","mo'
 		* ketikan perintah " npm cache clean --force " -> untuk membersihkan sampah yang tidak diperlukan dan menghalangi proses install package
 	6. ketikan perintah " npm run start-dev " -> untuk menjalankan aplikasi CRUD
+
+# Dokumentasi WebApi
+	- https://web-server-book-dicoding.appspot.com/
